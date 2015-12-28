@@ -1,0 +1,28 @@
+name: Gas Money Merch
+favicon: null
+layout_spectrum: 0.40857833973132074
+typography_spectrum: 0.9351431368850172
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8337169317528605
+  lightness: 0.6383926863782108
+  saturation: 0.385985819157213
+  rhythmicContrast: 0.027347858529537916
+purpose: []
